@@ -1,4 +1,0 @@
-﻿  Source1.c
-C:\Users\wsw28\OneDrive\바탕 화면\C 예제\Program1\Program1\Source1.c(10,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\wsw28\OneDrive\바탕 화면\C 예제\Program1\Program1\Source1.c(46,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Program1.vcxproj -> C:\Users\wsw28\OneDrive\바탕 화면\C 예제\Program1\x64\Debug\Program1.exe
